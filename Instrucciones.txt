@@ -1,0 +1,7 @@
+explicación del primer ejercicio con las instrucciones en git
+git init 
+git status
+git remote add origin (link del repositorio) 
+git add .
+git commit -m
+git push origin master
